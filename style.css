@@ -52,3 +52,9 @@ body {
   cursor: pointer;
   transform: scale(1.1);
 }
+
+footer {
+  text-align: center;
+  color: azure;
+  justify-content: center;
+}
