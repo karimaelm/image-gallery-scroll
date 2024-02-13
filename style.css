@@ -39,6 +39,8 @@ body {
   align-items: center;
   justify-content: center;
   margin: 10% auto;
+  padding-bottom: -10px;
+  margin-bottom: 28px;
 }
 #backBtn,
 #nextBtn {
@@ -57,5 +59,7 @@ footer {
   text-align: center;
   color: azure;
   justify-content: center;
-  padding-top: 5px;
+
+  margin-top: 0;
+  padding-top: 0;
 }
